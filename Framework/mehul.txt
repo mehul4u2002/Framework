@@ -1,2 +1,2 @@
 new file added
-Just for testing pull commnand
+Just for testing pull cmd
